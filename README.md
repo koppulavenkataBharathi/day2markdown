@@ -79,3 +79,8 @@ printf("hello")
 
 
 ![image12](https://github.com/koppulavenkataBharathi/day2markdown/blob/master/image.jfif.jpg)
+
+
+## inserting video
+[![video](https://img.youtube.com/vi/xZ5gWLQg9RI/0.jpg)](https://www.youtube.com/watch?v=xZ5gWLQg9RI)
+
