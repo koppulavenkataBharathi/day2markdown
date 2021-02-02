@@ -60,3 +60,9 @@ def fun():
 ```
 fun()
 ```
+`
+printf("gud evmg")
+`
+``
+printf("hello")
+``
