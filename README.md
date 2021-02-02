@@ -72,3 +72,6 @@ printf("hello")
 [github](https://github.com/koppulavenkataBharathi/day2markdown/blob/main/README.md)
 
 [gmail](https://mail.google.com/mail/u/0/#inbox)
+
+## inserting image
+[image](https://github.com/koppulavenkataBharathi/day2markdown/blob/master/image1.jfif.jpg)
