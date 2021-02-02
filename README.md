@@ -32,8 +32,8 @@ ejfuhgrjoksdpkfed
 1. cse
 2. ece
 3. mech
-  1. mech a
-  2. mech b
+    1. mech a
+    2. mech b
 4. civil
 5. eee
   
