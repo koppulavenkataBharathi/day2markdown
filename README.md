@@ -69,3 +69,6 @@ printf("hello")
 ## inserting urls
 [bharathi](https://www.markdownguide.org/cheat-sheet/)
 
+[github](https://github.com/koppulavenkataBharathi/day2markdown/blob/main/README.md)
+
+[gmail](https://mail.google.com/mail/u/0/#inbox)
