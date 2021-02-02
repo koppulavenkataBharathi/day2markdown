@@ -75,3 +75,7 @@ printf("hello")
 
 ## inserting image
 [image](https://github.com/koppulavenkataBharathi/day2markdown/blob/master/image1.jfif.jpg)
+
+
+
+![image12](https://github.com/koppulavenkataBharathi/day2markdown/blob/master/image.jfif.jpg)
