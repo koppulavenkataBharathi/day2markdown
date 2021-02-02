@@ -40,3 +40,23 @@ ejfuhgrjoksdpkfed
 5. eee
     1. eee a
     2. eee b
+## unordered lists
+- cse
+- mech
+    * mech a
+    * mech b
+-  ece
+- eee
+- civil
+    * civil a
+    * civil b
+## coding
+
+
+```
+def fun():
+    print("hello apssdc")
+````
+```
+fun()
+```
